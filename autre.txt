@@ -1,1 +1,2 @@
 ceci est un fichier text
+ ceci est un text que je viens de modifier comme laba 
